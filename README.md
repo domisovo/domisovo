@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hej👋
 
-Hej, studiuję Informatykę i Ekonometrię na AGH w Krakowie. Chętnie się rozwijam i uczę sie nowych rzeczy. 
+Mam 21 lat i studiuję Informatykę i Ekonometrię na AGH w Krakowie. Chętnie się rozwijam i uczę się nowych rzeczy. 
 Mam nadzieję, że będę mogła podzielić się z wami moim projektami.
 
 <!--
