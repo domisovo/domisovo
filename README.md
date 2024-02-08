@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hej, studiuję Informatykę i Ekonometrię na AGH w Krakowie. Chętnie się rozwijam i uczę sie nowych rzeczy. 
+Mam nadzieję, że będę mogła podzielić się z wami moim projektami.
+
 <!--
 **domisovo/domisovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
