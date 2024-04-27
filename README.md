@@ -1,7 +1,7 @@
-### Hej👋
+### Hi👋
 
-Mam 21 lat i studiuję Informatykę i Ekonometrię na AGH w Krakowie. Chętnie się rozwijam i uczę się nowych rzeczy. 
-Mam nadzieję, że będę mogła podzielić się z wami moim projektami.
+I'm 21 years old and I'm studying IT and Econometrics at AGH in Kraków. I enjoy learning new things and constantly seek opportunities for growth.
+
 
 <!--
 **domisovo/domisovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
