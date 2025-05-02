@@ -1,6 +1,6 @@
 ### Hi👋
 
-I'm 21 years old and I'm studying IT and Econometrics at AGH in Kraków. I enjoy learning new things and constantly seek opportunities for growth.
+I'm 22 years old and I'm studying IT and Econometrics at AGH in Kraków. I enjoy learning new things and constantly seek opportunities for growth.
 
 
 <!--
